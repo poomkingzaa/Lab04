@@ -18,8 +18,6 @@
       >
         Prev Page</router-link
       >
-    </div>
-    <div class="pagination">
       <router-link
         id="page-next"
         :to="{
